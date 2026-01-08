@@ -70,4 +70,6 @@ From the screens, the key problems solved are:
 
 
 ## Screenshot of the Dashboard:
-[Spotify Dashboard](https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify-Index.png)
+
+![Spotify Dashboard](Spotify-Index.png)
+
