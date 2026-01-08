@@ -6,7 +6,7 @@ I developed a Comprehensive Project in Power BI with the help of MS Excel, creat
 - <a href="https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/spotify-top-50-world.csv">View Dataset</a>
 ________________________________________
 
-📌##Project Objective/ Business Requirement
+## 📌Project Objective/ Business Requirement
 
 Spotify stakeholders (music analysts, playlist managers, and marketing teams) need a consolidated dashboard to monitor song and artist performance across different dimensions.
 This project transforms raw Spotify Top 50 chart data into an interactive business intelligence dashboard. The solution was built with a focus on actionable insights, following a clear data pipeline:
@@ -16,7 +16,7 @@ This project transforms raw Spotify Top 50 chart data into an interactive busine
 •	Analytical Process:
 	Data Acquisition & Cleaning: The raw dataset was cleaned, missing values were handled, and new metrics (like average popularity per artist) were calculated.
 
-About Dashboard:
+## 📌About Dashboard:
 
 i.	KPI & Feature Engineering: Core KPIs (Total Songs, Distinct Artists, Average Popularity) were defined and computed. Data was structured to support drill-down analyses by artist, song, and time.
 ii.	Dashboard Development: Four interconnected dashboard pages were created in Tableau to directly address each business requirement:
@@ -50,7 +50,7 @@ o	Provide detailed table with song name, release date, distinct artists, avg pop
 - <a href="https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify%20project%201.pbix">View Dashboard</a>
 ________________________________________
 
-📌 Conclusion:
+## 📌 Conclusion:
 
 Currently, Spotify’s raw “Top 50” dataset is limited to lists and rankings, making it difficult for stakeholders to see patterns and take insights quickly.
 
