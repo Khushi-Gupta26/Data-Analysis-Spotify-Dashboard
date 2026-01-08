@@ -3,15 +3,15 @@
 I developed a Comprehensive Project in Power BI with the help of MS Excel, creating  multiple dashboards to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
 
 ## Dataset used 
-- <a href-"https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/spotify-top-50-world.csv")Dataset</a>
+- <a href="https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/spotify-top-50-world.csv">View Dataset</a>
 ________________________________________
-##📌 Business Requirement
+📌 Business Requirement
 Spotify stakeholders (music analysts, playlist managers, and marketing teams) need a consolidated dashboard to monitor song and artist performance across different dimensions.
 This project transforms raw Spotify Top 50 chart data into an interactive business intelligence dashboard. The solution was built with a focus on actionable insights, following a clear data pipeline:
 
-##•	Tech Stack: The analysis and data transformation were performed using Excel with visualizations and the final interactive dashboard built in Power BI. Data is modeled for clarity and easy analysis.
+•	Tech Stack: The analysis and data transformation were performed using Excel with visualizations and the final interactive dashboard built in Power BI. Data is modeled for clarity and easy analysis.
 
-##•	Analytical Process:
+•	Analytical Process:
 	Data Acquisition & Cleaning: The raw dataset was cleaned, missing values were handled, and new metrics (like average popularity per artist) were calculated.
 
 i.	KPI & Feature Engineering: Core KPIs (Total Songs, Distinct Artists, Average Popularity) were defined and computed. Data was structured to support drill-down analyses by artist, song, and time.
@@ -41,6 +41,9 @@ o	Rank Top Songs by Popularity.
 o	Show Tracks per Song (Album/Single distribution).
 o	Compare Songs by Song Count.
 o	Provide detailed table with song name, release date, distinct artists, avg popularity, position, duration per year.
+
+## Dashboard Interaction
+- <a href="https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify%20project%201.pbix">View Dashboard</a>
 ________________________________________
 
 ##📌 Problem Statement
