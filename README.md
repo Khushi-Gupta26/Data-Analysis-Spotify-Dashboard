@@ -1,6 +1,9 @@
 # Spotify-Top-50-World-Data-Analysis(Interactive Dashboard creation Using Ms Excel,Power BI)
 
 I developed a Comprehensive Project in Power BI with the help of MS Excel, creating  multiple dashboards to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
+
+## Dataset used 
+- <a href-"https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/spotify-top-50-world.csv")Dataset</a>
 ________________________________________
 ##📌 Business Requirement
 Spotify stakeholders (music analysts, playlist managers, and marketing teams) need a consolidated dashboard to monitor song and artist performance across different dimensions.
@@ -10,12 +13,14 @@ This project transforms raw Spotify Top 50 chart data into an interactive busine
 
 ##•	Analytical Process:
 	Data Acquisition & Cleaning: The raw dataset was cleaned, missing values were handled, and new metrics (like average popularity per artist) were calculated.
+
 i.	KPI & Feature Engineering: Core KPIs (Total Songs, Distinct Artists, Average Popularity) were defined and computed. Data was structured to support drill-down analyses by artist, song, and time.
 ii.	Dashboard Development: Four interconnected dashboard pages were created in Tableau to directly address each business requirement:
-	Index Page: It is the main /Cover page of the Project.
-	Overview Page: Provides executive-level KPI monitoring and high-level trends.
-	Artist Page: Enables deep-dive analysis into artist performance and consistency.
-	Songs Page: Allows for granular tracking of individual song performance over time.
+
+-	Index Page: It is the main /Cover page of the Project.
+-	Overview Page: Provides executive-level KPI monitoring and high-level trends.
+-	Artist Page: Enables deep-dive analysis into artist performance and consistency.
+-	Songs Page: Allows for granular tracking of individual song performance over time.
 
 ##1.	Overview Page
 o	Track KPIs like Total Songs, Distinct Artists, Average Popularity, Avg Duration.
