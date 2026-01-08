@@ -2,7 +2,7 @@
 
 I developed a Comprehensive Project in Power BI with the help of MS Excel, creating  multiple dashboards to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
 
-## Dataset used 
+## 📌Dataset used 
 - <a href="https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/spotify-top-50-world.csv">View Dataset</a>
 ________________________________________
 
@@ -46,7 +46,7 @@ o	Show Tracks per Song (Album/Single distribution).
 o	Compare Songs by Song Count.
 o	Provide detailed table with song name, release date, distinct artists, avg popularity, position, duration per year.
 
-## Dashboard Interaction
+## 📌Dashboard Interaction
 - <a href="https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify%20project%201.pbix">View Dashboard</a>
 ________________________________________
 
