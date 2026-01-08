@@ -67,3 +67,7 @@ From the screens, the key problems solved are:
 •	Artist vs Song level insights not connected → Drill-down pages for Artists and Songs connect overview insights to detailed records.
 
 •	Decision-making gaps → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
+
+
+## Screenshot of the Dashboard:
+https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify-Index.png
