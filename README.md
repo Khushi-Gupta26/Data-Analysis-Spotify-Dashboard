@@ -16,8 +16,8 @@ This project transforms raw Spotify Top 50 chart data into an interactive busine
 •	Analytical Process:
 	Data Acquisition & Cleaning: The raw dataset was cleaned, missing values were handled, and new metrics (like average popularity per artist) were calculated.
 
-## Dashboard Index:
-<a href = "https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify-Index.png"></a>
+## Dashboard :
+<a href = "https://github.com/Khushi-Gupta26/Data-Analysis-Spotify-Dashboard/blob/main/Spotify-Index.png">View</a>
 
 ## 📌About Dashboard:
 
